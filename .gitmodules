@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sigInt"]
+	path = sigInt
+	url = https://github.com/ccrismancox/sigint
+	shallow = true
+	registered = true
